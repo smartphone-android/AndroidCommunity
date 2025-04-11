@@ -1,0 +1,3 @@
+com.zoe.wan.base
+id bottomTabLinear
+layout view_bottom_tab_bar

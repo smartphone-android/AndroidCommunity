@@ -1,0 +1,230 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zoe.wan.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.12.0] /Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.zoe.wan.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.12.0] /Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.12.0] /Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.zoe.wan.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.12.0] /Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.12.0] /Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:6:5-37:19
+20        android:name="com.zoe.wan.android.WanApp"
+20-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:7:9-31
+21        android:allowBackup="true"
+21-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:8:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.12.0] /Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:9:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="true"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:10:9-54
+27        android:icon="@mipmap/app_logo"
+27-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:12:9-40
+28        android:label="@string/app_name"
+28-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:13:9-41
+29        android:networkSecurityConfig="@xml/network"
+29-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:11:9-53
+30        android:roundIcon="@mipmap/app_logo"
+30-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:14:9-45
+31        android:supportsRtl="true"
+31-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:15:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.WanAndroid" >
+33-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:16:9-48
+34        <activity
+34-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:18:9-28:20
+35            android:name="com.zoe.wan.android.activity.home.TabActivity"
+35-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:19:13-54
+36            android:exported="true"
+36-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:20:13-36
+37            android:label="@string/app_name"
+37-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:21:13-45
+38            android:theme="@style/Theme.WanAndroid" >
+38-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:22:13-52
+39            <intent-filter>
+39-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:23:13-27:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:24:17-69
+40-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:24:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:26:17-77
+42-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:26:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.zoe.wan.android.activity.web.WebActivity" />
+45-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:29:9-62
+45-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:29:19-59
+46        <activity android:name="com.zoe.wan.android.activity.login.LoginActivity" />
+46-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:30:9-66
+46-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:30:19-63
+47        <activity android:name="com.zoe.wan.android.activity.about.AboutUsActivity" />
+47-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:31:9-68
+47-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:31:19-65
+48        <activity android:name="com.zoe.wan.android.activity.search.SearchActivity" />
+48-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:32:9-68
+48-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:32:19-65
+49        <activity android:name="com.zoe.wan.android.debug.DebugActivity" />
+49-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:33:9-57
+49-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:33:19-54
+50        <activity android:name="com.zoe.wan.android.activity.collect.MyCollectActivity" />
+50-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:34:9-71
+50-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:34:19-69
+51        <activity android:name="com.zoe.wan.android.activity.knowledge_detail.KnowledgeDetailActivity" />
+51-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:35:9-86
+51-->/Users/shaunlee/code/android/projects/WanAndroid/app/src/main/AndroidManifest.xml:35:19-84
+52        <activity
+52-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:10:9-14:75
+53            android:name="com.blankj.utilcode.util.UtilsTransActivity4MainProcess"
+53-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:11:13-83
+54            android:configChanges="orientation|keyboardHidden|screenSize"
+54-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:12:13-74
+55            android:theme="@style/ActivityTranslucent"
+55-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:13:13-55
+56            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+56-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:14:13-72
+57        <activity
+57-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:15:9-20:75
+58            android:name="com.blankj.utilcode.util.UtilsTransActivity"
+58-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:16:13-71
+59            android:configChanges="orientation|keyboardHidden|screenSize"
+59-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:17:13-74
+60            android:multiprocess="true"
+60-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:18:13-40
+61            android:theme="@style/ActivityTranslucent"
+61-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:19:13-55
+62            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+62-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:20:13-72
+63
+64        <provider
+64-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:22:9-30:20
+65            android:name="com.blankj.utilcode.util.UtilsFileProvider"
+65-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:23:13-70
+66            android:authorities="com.zoe.wan.android.utilcode.fileprovider"
+66-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:24:13-73
+67            android:exported="false"
+67-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:25:13-37
+68            android:grantUriPermissions="true" >
+68-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:26:13-47
+69            <meta-data
+69-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:27:13-29:68
+70                android:name="android.support.FILE_PROVIDER_PATHS"
+70-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:28:17-67
+71                android:resource="@xml/util_code_provider_paths" />
+71-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:29:17-65
+72        </provider>
+73
+74        <service
+74-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:32:9-38:19
+75            android:name="com.blankj.utilcode.util.MessengerUtils$ServerService"
+75-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:33:13-81
+76            android:exported="false" >
+76-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:34:13-37
+77            <intent-filter>
+77-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:35:13-37:29
+78                <action android:name="com.zoe.wan.android.messenger" />
+78-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:36:17-69
+78-->[com.blankj:utilcodex:1.31.0] /Users/shaunlee/.gradle/caches/transforms-3/1e5b4e400e9d2a042a5f7f0fa0930ccc/transformed/jetified-utilcodex-1.31.0/AndroidManifest.xml:36:25-66
+79            </intent-filter>
+80        </service>
+81
+82        <activity
+82-->[androidx.compose.ui:ui-tooling-android:1.5.0] /Users/shaunlee/.gradle/caches/transforms-3/a794731f43e651272c76a280b960b8b0/transformed/jetified-ui-tooling-release/AndroidManifest.xml:23:9-25:39
+83            android:name="androidx.compose.ui.tooling.PreviewActivity"
+83-->[androidx.compose.ui:ui-tooling-android:1.5.0] /Users/shaunlee/.gradle/caches/transforms-3/a794731f43e651272c76a280b960b8b0/transformed/jetified-ui-tooling-release/AndroidManifest.xml:24:13-71
+84            android:exported="true" />
+84-->[androidx.compose.ui:ui-tooling-android:1.5.0] /Users/shaunlee/.gradle/caches/transforms-3/a794731f43e651272c76a280b960b8b0/transformed/jetified-ui-tooling-release/AndroidManifest.xml:25:13-36
+85        <activity
+85-->[androidx.compose.ui:ui-test-manifest:1.5.0] /Users/shaunlee/.gradle/caches/transforms-3/3b10ed6f950e9044d91f2095f818dacf/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:23:9-25:39
+86            android:name="androidx.activity.ComponentActivity"
+86-->[androidx.compose.ui:ui-test-manifest:1.5.0] /Users/shaunlee/.gradle/caches/transforms-3/3b10ed6f950e9044d91f2095f818dacf/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:24:13-63
+87            android:exported="true" />
+87-->[androidx.compose.ui:ui-test-manifest:1.5.0] /Users/shaunlee/.gradle/caches/transforms-3/3b10ed6f950e9044d91f2095f818dacf/transformed/jetified-ui-test-manifest-1.5.0/AndroidManifest.xml:25:13-36
+88
+89        <provider
+89-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+90            android:name="androidx.startup.InitializationProvider"
+90-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:25:13-67
+91            android:authorities="com.zoe.wan.android.androidx-startup"
+91-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:26:13-68
+92            android:exported="false" >
+92-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:27:13-37
+93            <meta-data
+93-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+94-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:30:17-75
+95                android:value="androidx.startup" />
+95-->[androidx.emoji2:emoji2:1.4.0] /Users/shaunlee/.gradle/caches/transforms-3/dd7fc199c5c97c1bf87af862d83bf836/transformed/jetified-emoji2-1.4.0/AndroidManifest.xml:31:17-49
+96            <meta-data
+96-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/shaunlee/.gradle/caches/transforms-3/f2e028d598fe1ea58ce897f89a81c6a9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+97-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/shaunlee/.gradle/caches/transforms-3/f2e028d598fe1ea58ce897f89a81c6a9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+98                android:value="androidx.startup" />
+98-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/shaunlee/.gradle/caches/transforms-3/f2e028d598fe1ea58ce897f89a81c6a9/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+99            <meta-data
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+100                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+101                android:value="androidx.startup" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+102        </provider>
+103
+104        <receiver
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+105            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+106            android:directBootAware="false"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+107            android:enabled="true"
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+108            android:exported="true"
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+109            android:permission="android.permission.DUMP" >
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+111                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+114                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+117                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+118            </intent-filter>
+119            <intent-filter>
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+120                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/shaunlee/.gradle/caches/transforms-3/78e355b8005fc59ac836ee85581cde3b/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+121            </intent-filter>
+122        </receiver>
+123    </application>
+124
+125</manifest>

@@ -1,0 +1,2 @@
+int id bottomTabLinear 0x0
+int layout view_bottom_tab_bar 0x0

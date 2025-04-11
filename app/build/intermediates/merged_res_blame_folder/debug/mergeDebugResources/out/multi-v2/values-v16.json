@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zoe.wan.android.app-mergeDebugResources-62:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/shaunlee/.gradle/caches/transforms-3/c56c9387548616bae88c5dff0e98cd20/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/shaunlee/.gradle/caches/transforms-3/d6b3bbee2030f5985ed1c2baff75d177/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

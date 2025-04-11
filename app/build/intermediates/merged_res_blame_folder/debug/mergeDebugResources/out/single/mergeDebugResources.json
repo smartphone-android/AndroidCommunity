@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_knowledge_detail.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_knowledge_detail.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_home_selected.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_home_selected.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-mdpi_app_logo.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-mdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_fragment_common.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/fragment_common.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_knowledge.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_knowledge.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_img_collect_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/img_collect_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_knowledge_selected.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_knowledge_selected.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_fragment_knowledge.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/fragment_knowledge.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable_shape_edit_bg.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable/shape_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/xml_backup_rules.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_search.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_message_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_message_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_home_banner.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_home_banner.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_message_selected.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_message_selected.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_img_collect.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/img_collect.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_personal_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_personal_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_search.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_search.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_web.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_web.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xxhdpi_app_logo.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xxhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_hot_key_selected.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_hot_key_selected.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_fragment_home.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_personal_selected.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_personal_selected.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_home_list.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_home_list.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xxxhdpi_app_logo.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xxxhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_knowledge_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_knowledge_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_community_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_community_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_hot_key_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_hot_key_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_back.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_back.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_collect.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_collect.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable_shape_mine_item_bg.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable/shape_mine_item_bg.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_community_selected.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_community_selected.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_fragment_mine.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_login.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-hdpi_app_logo.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-hdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_img_arrow_right.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/img_arrow_right.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable_my_shape.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable/my_shape.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_fragment_knowledge_detail.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/fragment_knowledge_detail.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_knowledge_detail.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_knowledge_detail.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_item.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_item.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/xml_network.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/xml/network.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_my_collect_list.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_my_collect_list.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/drawable-v24_icon_home_grey.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/drawable-v24/icon_home_grey.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_item_search.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/item_search.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_tab_item.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/tab_item.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xhdpi_app_logo.png.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xhdpi/app_logo.png"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_tab.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_tab.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_debug.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_debug.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-debug-64:/layout_activity_about_us.xml.flat",
+        "source": "/Users/shaunlee/.gradle/daemon/8.4/com.zoe.wan.android.app-main-66:/layout/activity_about_us.xml"
+    }
+]
